@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "夢追い虫",
+  "base_artist": "Spitz",
+  "createdAt": "2026-02-09T19:21:18.893460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢追い虫",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/01_夢追い虫_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢追い虫",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/02_夢追い虫_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢追い虫",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/03_夢追い虫_スピッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢追い虫",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_夢追い虫_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夢追い虫",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_夢追い虫_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "夢追い虫",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_夢追い虫_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "夢追い虫",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_夢追い虫_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "夢追い虫",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_夢追い虫_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "夢追い虫 (early version)",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_夢追い虫_(early_version)_スピッツ.txt"
+    }
+  ]
+}
